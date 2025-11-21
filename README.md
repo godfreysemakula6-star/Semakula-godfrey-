@@ -1,2 +1,2 @@
 # Semakula-godfrey-
-Matlab group K
+Matlab group 3
